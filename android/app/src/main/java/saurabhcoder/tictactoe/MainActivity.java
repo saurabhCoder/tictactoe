@@ -1,4 +1,4 @@
-package com.mynewproject;
+package saurabhcoder.tictactoe;
 
 import android.os.Bundle;
 

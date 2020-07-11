@@ -2,9 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-        <key>EXUpdatesSDKVersion</key>
-        <string>YOUR-APP-SDK-VERSION-HERE</string>
-        <key>EXUpdatesURL</key>
-        <string>YOUR-APP-URL-HERE</string>
+	<key>New item</key>
+	<dict>
+		<key>AppSecret</key>
+		<string>399ad8e4-7d8b-48f3-bdca-0ca07ad76095</string>
+	</dict>
 </dict>
 </plist>
