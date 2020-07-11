@@ -53,7 +53,7 @@ import { StyleSheet, Text, View, Button, TouchableHighlight, Image } from 'react
       });
     }
 
-    
+
     jumpTo(step) {
       this.setState({
         stepNumber: step,
@@ -67,7 +67,7 @@ import { StyleSheet, Text, View, Button, TouchableHighlight, Image } from 'react
       const winner = calculateWinner(current.squares);
       let status;
       if(winner==='X' || winner ==='O'){
-        status = 'Winner ' + winner;
+        status = 'Winner:' + winner;
       } else if(winner==='N'){
         status = 'Draw';
       } else {
