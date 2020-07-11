@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b0273e515a4ad4d38e1f",
-    "url": "/tictactoe/static/js/app.d27818d0.chunk.js"
+    "revision": "e62a92ae0541493ec86d",
+    "url": "/tictactoe/static/js/app.1645e194.chunk.js"
   },
   {
     "revision": "d61c5519698413d759b0",
     "url": "/tictactoe/static/js/runtime~app.fc71f093.js"
   },
   {
-    "revision": "04461120cde1c6d7e1b5",
-    "url": "/tictactoe/static/js/2.22a83888.chunk.js"
+    "revision": "b6c9b8d781c63337f65d",
+    "url": "/tictactoe/static/js/2.76574f02.chunk.js"
   },
   {
     "revision": "004d73621509107733a7a2987be749cd",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/tictactoe/expo-service-worker.js"
   },
   {
-    "revision": "ba3ae50b6f5c7a41d4d108d2d6243925",
+    "revision": "afcc716da67feb180ee7f6cc4d33da1c",
     "url": "/tictactoe/index.html"
   },
   {
@@ -45,10 +45,22 @@ self.__precacheManifest = [
   },
   {
     "revision": "a990a8c98c379b1c14de33443329d80a",
-    "url": "/tictactoe/static/js/2.22a83888.chunk.js.LICENSE.txt"
+    "url": "/tictactoe/static/js/2.76574f02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6235f34e92bcb0e9d81d5585960131eb",
+    "revision": "25d8eb76425e5f63911231310c5d06e0",
+    "url": "/tictactoe/favicon-16.png"
+  },
+  {
+    "revision": "0ba532750411f199a2c142af7c8050cd",
+    "url": "/tictactoe/favicon-32.png"
+  },
+  {
+    "revision": "52fb492f5695c0de4d0fd18f4a94a940",
+    "url": "/tictactoe/favicon.ico"
+  },
+  {
+    "revision": "4652e9983f2ff77bd87f5d50b43b8134",
     "url": "/tictactoe/manifest.json"
   }
 ];
