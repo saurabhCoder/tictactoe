@@ -52,7 +52,6 @@ import { StyleSheet, Text, View, Button, TouchableHighlight, Image } from 'react
         stepNumber: history.length,
       });
     }
-
     jumpTo(step) {
       this.setState({
         stepNumber: step,
