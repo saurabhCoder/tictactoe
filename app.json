@@ -1,10 +1,10 @@
 {
-  "name": "myNewProject",
-  "displayName": "myNewProject",
+  "name": "tictactoe",
+  "displayName": "tictactoe",
   "expo": {
     "name": "Tic Tac Toe",
     "icon": "./app-icon.png",
-    "slug": "myNewProject",
+    "slug": "tictactoe",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
