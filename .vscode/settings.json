@@ -4,5 +4,6 @@
         ".vscode{,/**}"
     ],
     "appService.defaultWebAppToDeploy": "/subscriptions/6c161493-78f8-4f96-8638-d68c4e85bec9/resourceGroups/Trials/providers/Microsoft.Web/sites/tictactoe2020",
-    "appService.deploySubpath": "web-build"
+    "appService.deploySubpath": "web-build",
+    "git.ignoreLimitWarning": true
 }
