@@ -10,9 +10,9 @@
     "predeploy": "expo build:web"
   },
   "dependencies": {
-    "appcenter": "3.1.0",
-    "appcenter-analytics": "3.1.0",
-    "appcenter-crashes": "3.1.0",
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "expo": "~38.0.1",
     "expo-splash-screen": "~0.3.1",
     "expo-status-bar": "^1.0.0",
